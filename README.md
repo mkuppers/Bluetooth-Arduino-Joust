@@ -1,6 +1,7 @@
 # Arduino Micro Arcade - Joust
 
-For our reach we decided to program a reimagined version of the classic arcade game Joust! 
+I programmed this project as my final project for EECS183!
+For this project, I decided to program a reimagined version of the classic arcade game Joust! 
 To play you need to use an Arduino Mega, two potentiometers, two buttons, a 64 x 32 LED Screen and optionally
 in order to use Bluetooth mode, you need a Bluetooth capable Android device and a UART Bluetooth module (I 
 personally used the SparkFun Bluetooth Modem - BlueSMiRF Gold). For wiring, player one's potentiometer must 
